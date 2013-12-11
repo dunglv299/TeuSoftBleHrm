@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_settings">Scan</string>
+    <string name="app_name">Teusoft BLE</string>
+    <string name="app_description">Heart Rate Monitor</string>
+    <string name="button_test">Start</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="select_device">Select a Device</string>
+    <string name="scanning">Scanning...</string>
+    <string name="no_ble_devices">No BLE Devices Found</string>
+    <string name="status_string">Connection Status :  </string>
+    <string name="sensor">Sensor Location :  </string>
+    <string name="reset">Reset</string>
+    <string name="reset_note">Note: Reset button resets Energy Expended</string>
+    <string name="sensor_conn_status">Sensor Contact Status :  </string>
+    <string name="energy_expended">Energy Expended:  </string>
+    <string name="rr_interval">RR Interval:  </string>
+    <string name="body_location">Body Sensor Location:  </string>
+    <string name="bpm">Heart Rate BPM: </string>
+    <string name="logo_description">BLE logo</string>
+    <string name="popup_title">QUIT APPLICATION!</string>
+    <string name="popup_message">Device Quit , Do you want to quit this Application?</string>
+    <string name="popup_yes">YES</string>
+    <string name="popup_no">NO</string>
+    <string name="paired">paired</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <public id="0x7f020000" name="ic_launcher" type="drawable" />
+    <public id="0x7f030000" name="device_element" type="layout" />
+    <public id="0x7f030001" name="device_list" type="layout" />
+    <public id="0x7f030002" name="htc_main" type="layout" />
+    <public id="0x7f040000" name="app_name" type="string" />
+    <public id="0x7f040001" name="button_test" type="string" />
+    <public id="0x7f040002" name="connect" type="string" />
+    <public id="0x7f040003" name="select_device" type="string" />
+    <public id="0x7f040004" name="scanning" type="string" />
+    <public id="0x7f040005" name="no_ble_devices" type="string" />
+    <public id="0x7f040006" name="status_string" type="string" />
+    <public id="0x7f040007" name="sensor" type="string" />
+    <public id="0x7f040008" name="reset" type="string" />
+    <public id="0x7f040009" name="reset_note" type="string" />
+    <public id="0x7f04000a" name="sensor_conn_status" type="string" />
+    <public id="0x7f04000b" name="energy_expended" type="string" />
+    <public id="0x7f04000c" name="rr_interval" type="string" />
+    <public id="0x7f04000d" name="body_location" type="string" />
+    <public id="0x7f050000" name="name" type="id" />
+    <public id="0x7f050001" name="address" type="id" />
+    <public id="0x7f050002" name="title_devices" type="id" />
+    <public id="0x7f050003" name="about" type="id" />
+    <public id="0x7f050004" name="new_devices" type="id" />
+    <public id="0x7f050005" name="empty" type="id" />
+    <public id="0x7f050006" name="btn_cancel" type="id" />
+    <public id="0x7f050007" name="main_view" type="id" />
+    <public id="0x7f050008" name="textView1" type="id" />
+    <public id="0x7f050009" name="con_status" type="id" />
+    <public id="0x7f05000a" name="textView2" type="id" />
+    <public id="0x7f05000b" name="sensor_location" type="id" />
+    <public id="0x7f05000d" name="sensor_contact_status" type="id" />
+    <public id="0x7f05000e" name="energy_expended" type="id" />
+    <public id="0x7f05000f" name="rr_interval" type="id" />
+    <public id="0x7f050010" name="reset_note" type="id" />
+    <public id="0x7f050011" name="button3" type="id" />
+    <public id="0x7f050012" name="button1" type="id" />
+    <public id="0x7f050013" name="button2" type="id" />
+
+</resources>
